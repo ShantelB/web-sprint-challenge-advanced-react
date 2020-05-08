@@ -1,0 +1,13 @@
+1.	Declare the class and extend react.component. Then set Stuup the constructor, the super and the this.state.
+
+2.	Mounting phase: Render method is invoked and add componentDidMount
+Update Phase: Use setState to change state data. Can use shouldComponentUpdate.
+Un-Mounting phase: Component is removed from screen. Can use componentWillUnmount
+
+3.	Ok
+
+4.	Logic that is built into a component.
+
+5.	Arrange: Set up code that can be tested.
+Act: Call a method that returns a result of our test.
+Assert: Expect return to match actual return
